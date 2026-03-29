@@ -1,0 +1,12 @@
+# dependencies
+node_modules/
+
+# build
+dist/
+
+# logs
+npm-debug.log*
+
+# OS junk
+*.Zone.Identifier
+.DS_Store
